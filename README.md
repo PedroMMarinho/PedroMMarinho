@@ -1,3 +1,5 @@
+# mano deixaste o github aberto na sala de rcom mas suave já vou fazer logout, podes ficar descansado
+
 <h1 align="center"> Welcome everyone 🙌, I'm Pedro </h1>
 
 <p align="center" style="font-weight:bold;">
