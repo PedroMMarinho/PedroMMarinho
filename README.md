@@ -1,4 +1,3 @@
-# Pedro Marinho
 
 <h1 align="center"> Welcome everyone 🙌, I'm Pedro </h1>
 
