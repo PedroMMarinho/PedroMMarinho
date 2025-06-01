@@ -26,6 +26,10 @@ while (eng.isCoding()) {
 </p>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake-dark.svg" alt="Snake animation" />
+</div>
+
 <!--
 **Marinho-P/Marinho-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
