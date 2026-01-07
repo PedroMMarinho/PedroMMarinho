@@ -21,9 +21,10 @@ while (eng.isCoding()) {
 ```
 ### Current Stats:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PedroMMarinho/PedroMMarinho/output/github-metrics.svg" alt="Metrics" width="800">
-</div>
+<p align="center">
+  <img width="450" height="155" src="https://raw.githubusercontent.com/PedroMMarinho/PedroMMarinho/output/github-stats.svg" alt="Stats" />
+  <img width="340" height="154" src="https://raw.githubusercontent.com/PedroMMarinho/PedroMMarinho/output/github-langs.svg" alt="Languages" />
+</p>
 
 <div align="center">
   <picture>
