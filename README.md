@@ -1,6 +1,7 @@
 
-<h1 align="center"> Welcome everyone 🙌, I'm Pedro </h1>
-
+<div align="center">
+  <img src="./assets/github-banner.gif" alt="Bonfire Lit - Pedro's Profile" />
+</div>
 <p align="center" style="font-weight:bold;">
     Currently pursuing a degree in Computing and Informatics Engineering at <a href="https://www.fe.up.pt">FEUP</a>.
 </p>
