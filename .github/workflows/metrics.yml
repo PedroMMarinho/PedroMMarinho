@@ -1,4 +1,4 @@
-name: Snapshot Stats (Vercel Look)
+name: Metrics
 
 on:
   schedule:
