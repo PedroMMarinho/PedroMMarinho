@@ -22,10 +22,9 @@ while (eng.isCoding()) {
 ### Current Stats:
 
 <p align="center">
-  <img width="450" height="155" src="https://raw.githubusercontent.com/PedroMMarinho/PedroMMarinho/output/github-stats.svg" alt="Stats" />
-  <img width="340" height="154" src="https://raw.githubusercontent.com/PedroMMarinho/PedroMMarinho/output/github-langs.svg" alt="Languages" />
+ <img width="450" height="155" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=PedroMMarinho&hide=prs&count_private=true&show_icons=true&theme=github_dark">
+ <img width="340" height="154" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PedroMMarinho&layout=compact&theme=github_dark&hide=Makefile,Cmake,Shell,Starlark,M4,Html,teX&line_height=27&hide_border=true">
 </p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroMMarinho/PedroMMarinho/output/github-snake-dark.svg" />
