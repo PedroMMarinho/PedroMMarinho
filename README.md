@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/github-banner.gif" width="500" height="400" alt="Bonfire Lit - Pedro's Profile" />
+  <img src="./assets/github-banner.gif" width="1200" height="500" alt="Bonfire Lit - Pedro's Profile" />
 </div>
 <p align="center" style="font-weight:bold;">
     Currently pursuing a degree in Computing and Informatics Engineering at <a href="https://www.fe.up.pt">FEUP</a>.
