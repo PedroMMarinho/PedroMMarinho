@@ -3,22 +3,9 @@
   <img src="./assets/github-banner.gif" width="1200" height="500" alt="Bonfire Lit" />
 </div>
 <p align="center" style="font-weight:bold;">
-    Currently pursuing a degree in Computing and Informatics Engineering at <a href="https://www.fe.up.pt">FEUP</a>.
+    Currently taking Master's degree in Computing and Informatics Engineering at <a href="https://www.fe.up.pt">FEUP</a>.
 </p>
 
-<p align="center" style="font-style:italic;">d39b91fe7635bd113d005c471fe241a0</p>
-
-```javascript
-const name = 'Pedro';
-
-const eng = new Engineer(name);
-
-while (eng.isCoding()) {
-    eng.listenToMusic(); 
-    eng.createBugs();
-    eng.stayHydrated();   
-}
-```
 ### Current Stats:
 
 <p align="center">
@@ -34,17 +21,3 @@ while (eng.isCoding()) {
   </picture>
 </div>
 
-<!--
-**Marinho-P/Marinho-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
